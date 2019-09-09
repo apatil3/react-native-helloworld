@@ -3,7 +3,6 @@ An example project incorporating the MotionDNA framework into a universal androi
 
 ## Setup
 Before attempting to run this demo please make sure that you have taken care of the following dependencies
-
 Ensure that you have [node](https://nodejs.org/en/download/) installed and then use npm to install react native as described below
 
 ### Installing node
