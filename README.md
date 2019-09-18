@@ -1,6 +1,5 @@
 # react-native-helloworld
 An example project incorporating the MotionDNA framework into a universal android/ios react native application
-
 ## Setup
 Before attempting to run this demo please make sure that you have taken care of the following dependencies
 
